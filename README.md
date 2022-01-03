@@ -25,8 +25,8 @@ You may also see any lint errors in the console.
 
 ## 1
 
-![1(1.png)
+![Imagem1(1.png)
 
 ## 2
 
-![2(2.png)
+![Imagem2(2.png)
