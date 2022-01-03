@@ -23,10 +23,10 @@ You may also see any lint errors in the console.
 
 ### Imagens do projeto rodando
 
-## 1
+## Foto 1
 
 ![Imagem1](1.png)
 
-## 2
+## Foto 2
 
 ![Imagem2](2.png)
